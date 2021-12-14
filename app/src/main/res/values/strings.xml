@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">APFT Calculator</string>
+    <string name="score">Your APFT Score</string>
+    <string name="pushup">Push-up Score</string>
+    <string name="pushups">Push-ups</string>
+    <string name="sithup">Sit-up Score</string>
+    <string name="sithups">Sit-ups</string>
+    <string name="run">Run Score</string>
+    <string name="runMin">Run (minutes)</string>
+    <string name="runSec">Run (seconds)</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>
